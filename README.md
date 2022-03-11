@@ -27,3 +27,11 @@ Great!  You have setup your repo.  Now its time to start writing content.  Some 
 Note: you may want to remove example blog posts from the `_posts`,  `_notebooks` or `_word` folders (but leave them empty, don't delete these folders) if you don't want these blog posts to appear on your site.
 
 Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
+
+
+### Introduction
+This repository contains my week 9 assignment notebook about NLP. There are my assignment code, txt file. Besides, In this file you're reading, there's a badge to launch the interactive version of my repository on Binder.
+
+### Notebook
+In this notebook, I replicated the course and applied natural language processing on the Sharespear play *Romeo and Juliet*. As required, I did analysis on the word frequencies and selected the 20 most frequent words from the play (after removing stopwords). Then I check if each word makes sense and accurately show the sense of the play.
+
